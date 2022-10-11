@@ -1,8 +1,9 @@
 const url = "http://localhost:3001/navigation"
 const newUser = {
-    name: "Goku ss7",
-    email: "goku7@email.com",
-    password: "8000"
+    name: "Goku10 ssj10",
+    email: "goku10@email.com",
+    password: "8000",
+    confirmpassword: "8000"
 }
 
 const formDataJson = JSON.stringify(newUser)
